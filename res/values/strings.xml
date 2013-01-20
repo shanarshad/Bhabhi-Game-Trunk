@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BhabhiActivity!</string>
+    <string name="app_name">Bhabhi</string>
+    <string name="pSolo">Play Solo</string>
+    <string name="pOnline">Play Online</string>
+    <string name="setting">Settings</string>
+    <string name="rules">Rules</string>
+    <string name="score">Score</string>
+    <string name="me">Me</string>
+    <string name="pla1">Anum</string>
+    <string name="pla2">Hanif</string>
+    <string name="pla3">Azam</string>
+    <string name="noPlayer">Number of Players</string>
+    <string name="stgame">Start Game</string>
+    <string name="sound">Sound</string>
+    <string name="rAdd">Remove Adds</string>
+    <string name="cBubbles">Chat Bubbles</string>
+    <string name="oPlayers">Online Players</string>
+    <string name="avatar">Avatar</string>
+    <string name="seekbar_from_touch">from touch</string>
+    <string name="imgDes">Cards</string>
+
+</resources>
